@@ -12,7 +12,7 @@ The example Simulink-Model can be found in the main directory. Feel free to edit
 ![Simulink-Model "Example", containing the main communication block, the different inputs to choose from (via the mode selector) and the output data, provided from the vesc.](images/model__1)
 
 To be able to establish communication to the connected VESC, the COM-Port has to be set correctly. To do so, double-klick the interface block and change the Port in the 3 Serial communication blocks accordingly.
-!Interface block](images/model__1)
+![Interface block](images/model__2)
 
 ## Compatibility
 
